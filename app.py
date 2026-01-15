@@ -23,7 +23,7 @@ LATEST_HEADERS = {
     'Expect': "100-continue",
     'X-Unity-Version': "2018.4.11f1",   # গেম client fixed engine version
     'X-GA': "v1 1",
-    'ReleaseVersion': "OB51"            # গেম release version (প্যাচ আপডেটে পরিবর্তন হবে)
+    'ReleaseVersion': "OB52"            # গেম release version (প্যাচ আপডেটে পরিবর্তন হবে)
 }
 
 def load_tokens(server_name):
